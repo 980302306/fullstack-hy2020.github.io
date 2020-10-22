@@ -31,7 +31,7 @@ Change the application's notifications to use Redux at this point of the exercis
 
 _Note_ that this and the next two exercises are quite laborious but incredibly educational.
 
-Store the information about blog posts in the Redux store. In this exercise it is enough that you can see the blogs in backend and create a new blog.
+Store the information about blog posts in the Redux store. In this exercise it is enough that you can see the blogs in frontend and create a new blog.
 
 You are free to manage the state for logging in and creating new blog posts by using the internal state of React components.
 
@@ -130,7 +130,7 @@ You can mark this exercise as finished if you use an hour or more for styling yo
 
 #### 7.21: Course feedback
 
-How did we do? Give us some feedback for the course in Moodle!
+How did we do? Give us some [feedback](https://moodle.helsinki.fi/mod/feedback/view.php?id=1733572) for the course in Moodle!
 
 This was the last exercise for this part of the course and it's time to push your code to GitHub and mark all of your finished exercises to the [exercise submission system](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
 

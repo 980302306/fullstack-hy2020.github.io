@@ -151,6 +151,12 @@
       "text": [
         "That's right. If you complete the course with full credits, and complete the practical work with 10 credits, you get a job interview with our partners. Read more <a href='/en/part0/general_info#interview-promise'>here</a>. Please note that only persons with Finnish social security number can get take part to exam and get official ECTS credits."
       ]
+    },
+    {
+      "title": "Can I continue exercises after the exam to get more credits? even after the deadline of the exam?",
+      "text": [
+        "Yes, you can pass the exam at first and then continue exercises to obtain more credits even after the deadline of the exam."
+      ]
     }
   ],
   "es": [
@@ -316,6 +322,12 @@
       "title": "我是从去年的课程开始学习的，我应该怎么续接今年的课程呢？",
       "text": [
         "阅读更多 <a href='/zh/part0/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86#expanding-on-a-previously-completed-course'>这一章节</a>的内容。"
+      ]
+    },
+    {
+      "title": "可以先考试，再继续做练习来获得更多的学分吗？即使在考试的截止日期后？",
+      "text": [
+        "可以先完成考试，再继续做练习，即使在考试截止日期后，你也可以做练习来获得更多的学分."
       ]
     }
   ]
